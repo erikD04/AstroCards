@@ -1,10 +1,10 @@
-Astro Cards is a 2D educational arcade game where you blast enemies and master flashcards — all in real time. Created from scratch, this project blends the intensity of a Space Invaders-style shooter with the challenge of learning, making it perfect for students, developers, or educators who love games with purpose.
+**Astro Cards** is a 2D educational arcade game where you blast enemies and master flashcards — all in real time. Created from scratch, this project blends the intensity of a Space Invaders-style shooter with the challenge of learning, making it perfect for students, developers, or educators who love games with purpose.
 
 How to Play:
-- Use ARROW KEYS to move left or right
-- Quickly double tap either the left/right arrow to dodge
-- Press SPACEBAR to fire lasers
-- When a flashcard appears, type your answer and press ENTER or click submit.
+- Use **ARROW KEYS** to move left or right
+- Quickly **double tap** either the left/right arrow to dodge
+- Press **SPACEBAR** to fire lasers
+- When a flashcard appears, type your answer and press **ENTER** or click submit.
 - Answering correctly rewards you with health and score!
 - You can create your own flashcards before starting the game or load an existing flashcard set from a .txt file (assuming you've already created one in-game)
 
