@@ -20,3 +20,10 @@ Astro Cards was developed entirely in Java Swing, with no external game engine. 
 
 Personal Statement:
 I built Astro Cards without a game engine because I wanted to truly understand what happens under the hood when you draw a sprite, move a character, or animate a scene. This project represents my deep dive into game development fundamentals — managing frame timing, pixel-based positioning, and real-time rendering using only Java Swing. I learned a lot, including how graphics are rendered at a fundamental level - from manually positioning sprites with pixel coordinates to managing screen repaints and timing using Java's built-in rendering pipeline. I wrote my own collision logic, movement systems, UI handling, bullet firing, and even audio playback. This project pushed me in many ways, making me think critically on how I can apply mathematics to build a strong engine. I highly recommend that anyone curious about game development try building something without an engine — you'll gain a deeper understanding of how games really work.
+
+I learned a lot from these resources:
+https://www.youtube.com/watch?v=xk4_1vDrzzo (BroCode's tutorial on core Java, including Java Swing/AWT.)
+https://www.youtube.com/watch?v=7Jr0SFMQ4Rs&list=PLCrc0r1QSII1zkBw3s8kuz9IWPM5G4puy&index=18 (Crash Course video that explains the fundamental concept of how graphics work at the low level - such as frame buffers and bitmap displays)
+https://www.youtube.com/watch?v=UILUMvjLEVU&list=PLCrc0r1QSII1zkBw3s8kuz9IWPM5G4puy&index=22 (KennyYipCoding's Java Space Invaders Tutorial was the foundation of my project that I modified)
+https://docs.oracle.com/javase/8/docs/api/index.html?overview-summary.html (JavaDocs, the documentation was necessary for me to understand the methods and classes I was using)
+https://docs.oracle.com/javase/tutorial/2d/index.html & https://www.oracle.com/java/technologies/painting.html (Helped me understand Java 2D Graphics with much more context)
