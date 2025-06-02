@@ -27,3 +27,8 @@ I learned a lot from these resources:
 - https://www.youtube.com/watch?v=UILUMvjLEVU&list=PLCrc0r1QSII1zkBw3s8kuz9IWPM5G4puy&index=22 (KennyYipCoding's Java Space Invaders Tutorial was the foundation of my project that I modified)
 - https://docs.oracle.com/javase/8/docs/api/index.html?overview-summary.html (JavaDocs, the documentation was necessary for me to understand the methods and classes I was using)
 - https://docs.oracle.com/javase/tutorial/2d/index.html & https://www.oracle.com/java/technologies/painting.html (Helped me understand Java 2D Graphics with much more context)
+
+Art and Sound:
+- All sprites used in the game were made by Gustavo Vituri. You can find the link to their sprites here: https://gvituri.itch.io/space-shooter
+- All music used in the game was produced by SketchyLogic. You can find the link to their music files here: https://opengameart.org/content/nes-shooter-music-5-tracks-3-jingles
+- Bullet and hit noises were generated using using Bfxr, which can be found here: https://www.bfxr.net/
